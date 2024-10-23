@@ -1,0 +1,1 @@
+# En esta carpeta estarán las BBDD utilizadas y los resultados de los modelos utilizados como de las técnicas de explicabilidad
