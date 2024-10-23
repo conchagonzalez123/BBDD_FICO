@@ -1,0 +1,1 @@
+# Código utilizado para los modelos de Maching Learning con las Base de datos sin outliers 
