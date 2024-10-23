@@ -1,0 +1,1 @@
+#Código de modelos de maching learning con todas las variables y en otros casos con las variables utilizadas a priorio, pero con todos los datos
